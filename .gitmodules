@@ -10,3 +10,18 @@
 [submodule "bundle/local-vimrc"]
 	path = bundle/local-vimrc
 	url = https://github.com/MarcWeber/vim-addon-local-vimrc.git
+[submodule "asciidoc"]
+	path = asciidoc
+	url = https://github.com/dahu/vim-asciidoc.git
+[submodule "Asif"]
+	path = Asif
+	url = https://github.com/dahu/Asif.git
+[submodule "vimple"]
+	path = vimple
+	url = https://github.com/dahu/vimple.git
+[submodule "VimRegStyle"]
+	path = VimRegStyle
+	url = https://github.com/Raimondi/VimRegStyle.git
+[submodule "SyntaxRange"]
+	path = SyntaxRange
+	url = https://github.com/vim-scripts/SyntaxRange.git
