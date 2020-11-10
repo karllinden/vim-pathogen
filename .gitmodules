@@ -28,3 +28,6 @@
 [submodule "vimtex"]
 	path = bundle/vimtex
 	url = https://github.com/lervag/vimtex.git
+[submodule "bundle/Jenkinsfile-vim-syntax"]
+	path = bundle/Jenkinsfile-vim-syntax
+	url = https://github.com/martinda/Jenkinsfile-vim-syntax.git
